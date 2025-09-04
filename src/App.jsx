@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="container">
-      <div className="header">Header</div>
+      <div className="header">Robert Velasco</div>
       <div className="content">
         <div className="content1">
           <div className="c1left">
@@ -19,14 +19,13 @@ function App() {
             <div className="mc">Main Content</div>
             <div className="ec">Extra Content</div>
           </div>
-
         </div>
         <div className="content2">
           <div className="ri">Related Images</div>
           <div className="rp">Related Posts</div>
         </div>
       </div>
-      <div className="footer">Footer</div>
+      <div className="footer">CPEITEL IT3B</div>
     </div>
   )
 }
